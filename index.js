@@ -1,0 +1,1 @@
+console.log("This is homework Day6 - Javascript!")
