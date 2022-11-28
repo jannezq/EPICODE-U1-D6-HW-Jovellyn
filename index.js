@@ -37,7 +37,7 @@ sauceFinal = sauce + rawBlackPepper; // 56 + 4 = 60
 
 console.log("The final carbonara sauce is = ",sauceFinal);
 
-//cooking the noodles
+//cooking the noodles with the guanciale
 let cookingPan = guanciale + spaghetti;
 
 //serving the dish
